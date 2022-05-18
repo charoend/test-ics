@@ -10,7 +10,8 @@
 * ต้องติดตั้งระบบสำหรับการใช้งานก่อนหากไม่มี https://docs.flutter.dev/get-started/install
 * 
 
-รายละเอียด V.1.0.0
+รายละเอียด V.1.0.0 
+https://github.com/charoend/test-ics/blob/main/ics.zip
 - อ่านไฟล์ .Json 
 - แสดงผลข้อมูลในไฟล์ Json
 - เปลี่ยนฟ้อนต์เป็น Kanit
@@ -21,4 +22,4 @@
 - Sticky Header
 - เวลาที่เปิดของวันปัจจุบันที่ดู (ตอนนี้มีเฉพาะวันแรก)
 - แสดงเป็นแบบกดซ้ายขวา หรือ Horizontal Scroll View 3 รูป
-- 
+*
